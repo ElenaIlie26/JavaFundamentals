@@ -19,5 +19,7 @@ public class MainApp {
         // 3. insert card
 
         atmnou.insertCard(myCard);
+        System.out.println("buna");
+        System.out.println("hey");
     }
 }
